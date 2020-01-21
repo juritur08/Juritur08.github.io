@@ -1,0 +1,83 @@
+*{
+ margin:0px;
+ padding:0px;
+}
+
+body{
+background-color:gray;
+}
+
+nav{
+border:black 0.5px solid;
+width:100%;
+height:60px;
+background-color:black;
+
+
+}
+
+nav ul{
+float: left;
+cursor: pointer;	
+}
+
+nav ul li{
+float: left;
+list-style: none;
+position: relative;
+}
+
+nav ul li a{
+display: block;
+font-family:"Comic Sans MS";
+color:#DCDDE5;
+font-size: 18px;
+padding: 17.5px 14px;
+text-decoration: none;
+border:#DCDDE5 0.5px solid;
+}
+
+nav ul li a:hover{
+background-color: #F8F8FA;
+}
+
+.box{
+ background-color:black;
+
+}
+
+h1{
+ font-family:"Goudy Stout Regular";
+ font-size:80px;
+ color:white;
+ text-align:center;
+ margin-top: 100px;
+}
+
+q{
+ font-family:"Goudy Stout Regular";
+ font-size: 50px;
+ font-weight:1PX;
+ color:white;
+ margin-top: 500px;
+}
+
+iframe{
+ margin-top:200px;
+ width:50%;
+ height:600px;
+
+}
+
+h3{
+text-align:center;
+font-family:"calibri";
+font-size:20px;
+}
+
+p{
+ text-align:center;
+font-family:"calibri";
+font-size:18px;
+}
+
